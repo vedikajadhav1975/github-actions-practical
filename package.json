@@ -1,0 +1,8 @@
+{
+  "name": "github-actions-practical",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Test successful\"",
+    "build": "echo \"Build successful\""
+  }
+}
